@@ -1,0 +1,4 @@
+../APP/Src/app_thermostat.c:30:13:Display_Normal_State	40	static
+../APP/Src/app_thermostat.c:44:13:Display_Setting_State	40	static
+../APP/Src/app_thermostat.c:65:6:APP_Thermostat_Init	8	static
+../APP/Src/app_thermostat.c:77:6:APP_Thermostat_Run	8	static

@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:800:26:LL_GPIO_IsInputPinSet	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	1
+../BSP/Src/bsp_gpio.c:5:6:BSP_Fan_Control	2
+../BSP/Src/bsp_gpio.c:14:9:BSP_Button_Read	8
